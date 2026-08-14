@@ -13,8 +13,7 @@ title                    : "James Salmon"
 title_separator          : "-"
 name                     : &name "James Salmon"
 description              : &description "PhD Candidate in Applied Economics, University of Wisconsin-Madison"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://James-Salmon.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://james-salmon.github.io # Switch this to https://jamessalmon.com once you re-add the custom domain
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "James-Salmon/James-Salmon.github.io"
 
@@ -24,9 +23,9 @@ repository               : "James-Salmon/James-Salmon.github.io"
 author:
   # Biographic information
   avatar           : "Salmon_James_1685716.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "James Salmon"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Applied economist finishing my PhD at UW-Madison. I work on [YOUR TOPIC HERE]."
   location         : "Madison WI, USA"
   employer         : "University of Wisconsin-Madison"
   uri              : # URL
@@ -64,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : 'www.linkedin.com/in/dr-james-salmon'
+  linkedin         : "dr-james-salmon"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -123,7 +122,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # no blog on this site, so the RSS link is hidden in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -141,14 +140,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 : "Salmon_James_1685716.jpeg"  # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : "James Salmon" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/dr-james-salmon"
+    - "https://github.com/James-Salmon"
 
 
 # Analytics
