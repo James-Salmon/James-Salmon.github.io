@@ -14,3 +14,13 @@ My research is on [TOPIC, IN PLAIN LANGUAGE — e.g. "how minimum wage changes a
 I work with [METHODS — e.g. "large administrative datasets, causal inference, and applied microeconometrics"], primarily in [SOFTWARE — e.g. "R and Stata"].
 
 I'm currently looking for [ROLES — e.g. "economic consulting and applied research positions"] starting [TIMING]. You can download my [CV](/files/cv.pdf) or reach me at [james_salmon@icloud.com](mailto:james_salmon@icloud.com).
+
+Job Market Paper
+======
+
+**[PAPER TITLE]**
+
+[ABSTRACT — one paragraph, roughly 150-250 words. Use the version from the
+paper itself, but consider trimming the densest technical sentences.]
+
+[Download the paper (PDF)](/files/james_salmon_jmp.pdf)
