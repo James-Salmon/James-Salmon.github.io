@@ -16,7 +16,6 @@ Small American farmers face mounting economic pressures that threaten their surv
 
 ## Other Research
 
-# [Download PDF](/files/turbines_paper_CHANGE.pdf)
 
 ## Earlier Energy Research
 
