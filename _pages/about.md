@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in Applied Economics at the University of Wisconsin-Madison, expecting to complete my degree in May 2027.
+I am a PhD candidate in Applied Economics at the University of Wisconsin–Madison and will be on the 2026–27 economics job market. I expect to complete my PhD in May 2027.
 
-My research is centered on identifying factors that help and hinder the expansion of renewable energy infrastructure in the United States. [ONE OR TWO SENTENCES: the question you're answering and why it matters. Write it so a smart non-economist follows it without effort.]
+My research is in applied microeconomics, with a particular focus on energy, environmental and natural-resource economics. I study how property rights, land markets and public policy affect investment in renewable energy, and how the energy transition affects households and communities. My work uses large spatial datasets, applied microeconometrics and geospatial analysis, with most of my empirical work conducted in R.
 
-I work with [METHODS — e.g. "large administrative datasets, causal inference, and applied microeconometrics"], primarily in R, Python, QGIS and Excel.
-
-I'm currently looking for roles in economic consulting, energy, and electricity regulation starting in the spring of 2027. You can download my [CV](/files/cv.pdf) or reach me at [james_salmon@icloud.com](mailto:james_salmon@icloud.com).
+Before beginning my PhD, I worked in the UK energy sector on demand-side response at ENGIE and distributed battery storage at Solo Energy. My earlier training in theoretical physics and carbon management gives me a technical understanding of energy systems that complements my economics research.
 
 Job Market Paper
 ======
