@@ -13,7 +13,7 @@ title                    : "James Salmon"
 title_separator          : "-"
 name                     : &name "James Salmon"
 description              : &description "PhD Candidate in Applied Economics, University of Wisconsin-Madison"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://james-salmon.github.io # Switch this to https://jamessalmon.com once you re-add the custom domain
+url                      : https://jamessalmon.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "James-Salmon/James-Salmon.github.io"
 
@@ -29,7 +29,7 @@ author:
   location         : #"Madison WI, USA"
   employer         : "University of Wisconsin-Madison"
   uri              : # URL
-  email            : "james_salmon@icloud.com" 
+  email            : "ljsalmon@wisc.edu" 
 
   # Academic websites
 #  academia         : # URL
