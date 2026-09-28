@@ -23,6 +23,6 @@ Small American farmers face mounting economic pressures that threaten their surv
 **Assessing the Potential for Demand-Side Storage to Buffer the Differential Between Real Time Demand and Renewable Energy Supply in Orkney**\
 (MSc dissertation, University of Edinburgh, 2017)
 
-Examines the potential for distributed battery storage to balance renewable generation and electricity demand in Orkney. This research subsequently informed my work as a Project Analyst at Solo Energy, where I worked on the development of distributed storage infrastructure in the islands.
+Using household electricity-demand data and Orkney-wide generation and demand data, I examined whether distributed behind-the-meter battery storage could reduce the mismatch between renewable generation and electricity demand on the islands. The project modelled how batteries could shift demand toward periods of high renewable generation and assessed the resulting effects on grid imports and the carbon intensity of electricity consumption. The research was undertaken in collaboration with Solo Energy and subsequently led into my work on distributed battery storage in Orkney.
 
 [Download PDF](/files/james_salmon_msc.pdf)
