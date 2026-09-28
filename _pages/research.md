@@ -14,6 +14,10 @@ Small American farmers face mounting economic pressures that threaten their surv
 
 [Download PDF](/files/james_salmon_jmp.pdf)
 
+## Other Research
+
+[Download PDF](/files/turbines_paper_CHANGE.pdf)
+
 ## Earlier Energy Research
 
 **Assessing the Potential for Demand-Side Storage to Buffer the Differential Between Real Time Demand and Renewable Energy Supply in Orkney**\
