@@ -26,7 +26,7 @@ author:
   name             : "James Salmon"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Applied Economics at UW–Madison. Applied microeconomist working on energy, environmental and natural-resource economics and public policy."
-  location         : "Madison WI, USA"
+  location         : #"Madison WI, USA"
   employer         : "University of Wisconsin-Madison"
   uri              : # URL
   email            : "james_salmon@icloud.com" 
