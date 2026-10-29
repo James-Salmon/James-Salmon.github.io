@@ -13,6 +13,6 @@ redirect_from:
 
 [View / download academic CV](/files/james_salmon_cv.pdf){: .btn .btn--primary}
 
-## Industry Résumé
+## Industry Resume
 
-[View / download industry résumé](/files/james_salmon_resume.pdf){: .btn}
+[View / download industry resume](/files/james_salmon_resume.pdf){: .btn}
