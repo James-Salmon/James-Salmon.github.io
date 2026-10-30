@@ -21,4 +21,4 @@ _with Sarah Johnston and Dominic Parker_
 
 Green infrastructure development can provide an important source of supplementary income for American farmers, but the land requirements of wind, solar, and conservation projects may disadvantage smaller and more fragmented farms. Using county-, section-, and parcel-level measures of land fragmentation across the rural United States, we examine how farm size and ownership structure affect the location and intensity of green development. We find the clearest effects for wind power, where larger, less fragmented holdings consistently attract more development. The results suggest that land fragmentation can limit small farms’ ability to benefit from green investment and may weaken policies aimed at supporting farm income through diversification.
 
-[Download the paper (PDF)](/files/james_salmon_jmp.pdf)
+[Download the paper (PDF)](/papers/small-farms)
