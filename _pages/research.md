@@ -16,7 +16,7 @@ Small American farmers face mounting economic pressures that threaten their surv
 
 ## Other Research
 
-**Wind Development and Residential Property Values: Historical Evidence and Future Implications**\
+**Wind Development and Residential Property Values: Historical Evidence and Future Implications**
 
 Wind power is central to the transition to low-carbon electricity, but concern about its effects on nearby property values is a common source of local opposition. We estimate how wind development has affected US home prices and use these estimates to assess the residential property value at stake as wind capacity expands. Using a stacked event study of home sales, we find that prices within 2 km of new commercial wind developments fell by about 11% relative to prices 5--10 km away in the year operation began and the following five years. We then place hypothetical turbines at the wind sites in four National Renewable Energy Laboratory scenarios for a clean US electricity system by 2035, which add about 600--1,200 GW of wind capacity. These scenarios would bring a turbine within 5 km of 2.5--6.3 million residential parcels that had none within 10 km in 2023, most of them in rural areas. If past price effects carry over to these homes, our estimates imply a reduction of $16--51 billion in their value across the scenarios, compared with $5--33 billion using estimates from two recent national studies. These findings show how the implications of wind expansion for property values depend on where turbines are built and on the size and reach of their price effects.
 
